@@ -3,6 +3,6 @@ public class sum{
         int a = 5;
         int b = 10;
         int sum = a + b;
-        System.out.println("the sum of two numbers is:" + sum);
+        System.out.println("the sum of two Ngit umbers is:" + sum);
     }
 }
